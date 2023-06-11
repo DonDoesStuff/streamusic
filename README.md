@@ -51,4 +51,4 @@ A: If you wish to support Streamusic through donations, you can use the followin
 [![Donate TRX](https://img.shields.io/badge/Donate-TRX-red)](https://whispering-jealous-maize.glitch.me/trx.html) [![Donate LTC](https://img.shields.io/badge/Donate-LTC-blue)](https://whispering-jealous-maize.glitch.me/ltc.html) [![Donate BTC](https://img.shields.io/badge/Donate-BTC-yellow)](https://whispering-jealous-maize.glitch.me/btc.html)
 
 Q: What if I have additional questions?
-A: If you have any further inquiries or encounter any issues, feel free to create an issue, and the Streamusic team will respond as soon as possible.
+A: If you have any further inquiries or encounter any issues, feel free to create an issue, and I will respond as soon as possible.
